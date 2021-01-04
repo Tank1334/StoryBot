@@ -7,3 +7,5 @@ run bot.py and keep it running.
 
 to disconnect the bot:
 terminate bot.py.
+
++help for commands list.
